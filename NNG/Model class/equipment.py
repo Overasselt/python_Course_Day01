@@ -24,3 +24,6 @@ if __name__ == '__main__':
     equipment.add_materiaal(Materiaal('Landingsgestel F16', 'Hoofdlandingsgestel RA', '0023', 'landingsgestel', 'LG893428', '374589-324786', 'rechtsachter'))
     equipment.add_materiaal(Materiaal('Landingsgestel F16', 'Hoofdlandingsgestel LA', '0023', 'landingsgestel', 'LG893429', '374589-324782', 'linksachter'))
     equipment.add_materiaal(Materiaal('Landingsgestel F35', 'Hoofdlandingsgestel LA', '0023', 'landingsgestel', 'LG893129', '474589-324782', 'front'))
+
+# ---------------------------------------------
+# ge-update project
